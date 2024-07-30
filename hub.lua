@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("CelestialHub", "Sentinel")
+local Window = Library.CreateLib("CelestialHub", "Midnight")
 local Tab = Window:NewTab("MM2")
 local Section = Tab:NewSection("MM2")
 Section:NewButton("MM2", "MM2", function()
